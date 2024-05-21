@@ -9,7 +9,7 @@
 </br>
 
 <div>
-<img src="https://raw.githubusercontent.com/capdale/.github/main/profile/imgs/main.png">
+[<img src="https://raw.githubusercontent.com/capdale/.github/main/profile/imgs/main.png">](https://github.com/capdale/)
 </div>
 
 ## Modakbul repository
